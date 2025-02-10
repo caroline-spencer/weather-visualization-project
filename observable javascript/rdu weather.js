@@ -1,3 +1,6 @@
+// Code downloaded from Observable Notebook
+// Working Observable Notebook can be viewed here: https://observablehq.com/d/2a64ac4d41285c32
+
 function _1(md){return(
 md`# RDU Weather`
 )}
